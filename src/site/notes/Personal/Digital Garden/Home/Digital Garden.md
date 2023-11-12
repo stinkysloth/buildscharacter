@@ -25,6 +25,7 @@ So with that, I present, the Digital Garden of [[Personal/Digital Garden/Content
 * PC gaming
 * DIY
 * Value of Creation
+* [[Personal/Digital Garden/Content/Fighting Laziness\|Fighting Laziness]]
 * Books I have consumed and enjoyed
 * Attention 
 * Unique names and the lack of anonymity on the internet
@@ -32,3 +33,8 @@ So with that, I present, the Digital Garden of [[Personal/Digital Garden/Content
 * [[Personal/Digital Garden/Content/Minecraft\|Minecraft]]
 * Nepotism in hiring... it's how the world works and it's right
 * Allegory of the cave and how it applies to work experience
+
+###### Saplings
+
+###### Trees
+
