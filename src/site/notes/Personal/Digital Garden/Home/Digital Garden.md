@@ -21,11 +21,11 @@ So with that, I present, the Digital Garden of [[Personal/Digital Garden/Content
 * Family
 * Running
 * Relationship to computers
-* Homelab
+* [[Personal/Digital Garden/Content/Homelab\|Homelab]]
 * PC gaming
 * DIY
 	* [[copilot-conversations/Painting the Exterior of the house\|Painting the Exterior of the house]]
-* Value of Creation
+* [[Value of Creation\|Value of Creation]]
 * [[Personal/Digital Garden/Content/Fighting Laziness\|Fighting Laziness]]
 * Books I have consumed and enjoyed
 * Attention 
