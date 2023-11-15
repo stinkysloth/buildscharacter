@@ -15,7 +15,8 @@ I continue to leverage the homelab for learning, experimenting, and generally as
 I have personally found a lot of [[Value of Creation\|Value of Creation]] and self-fulfillment when I am able to make things and share them with others. Be it [[pottery\|pottery]], a homelab, or [[knitting\|knitting]]. It's a weird set of examples, I know, but it all revolves around the creation of shared experiences, and to me, that's a tremendously fulfilling experience and one that I don't get from playing [[video games\|video games]] or watching Netflix. 
 
 Useful Links: 
-[[Truenas Scale - Automated App Updates\|Truenas Scale - Automated App Updates]]
+[[Personal/Digital Garden/Content/Truenas Scale - Automated App Updates\|Truenas Scale - Automated App Updates]]
 
 
 - [ ] #homelab Create diagram of current-state homelab
+- [ ] #homelab Figure out replacement B2 Cloud Backup approach
