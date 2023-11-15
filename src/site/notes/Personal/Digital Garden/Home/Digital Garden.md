@@ -12,30 +12,33 @@ The [[Personal/Digital Garden/Content/definition of a digital garden\|definition
 
 So with that, I present, the Digital Garden of [[Personal/Digital Garden/Content/Buildscharacter\|Buildscharacter]]. 
 
-###### Seeds
-* Podcast episodes worth listening to and sharing
-* Obsidian processes
-* Knitting
-* GPT and usage
-* Fatherhood
+###### Greenhouses in the Garden
+* Hobbies
+	* Podcast episodes worth listening to and sharing
+	* Books I have consumed and enjoyed
+	* Knitting
+* Life
+	* Relationship to computers
+	* Fatherhood
+	* Living a intentional life
+	* [[Value of Creation\|Value of Creation]]
+	* [[Personal/Digital Garden/Content/Fighting Laziness\|Fighting Laziness]]
+	* Attention 
 * Family
+	* Yelling and anger management
+	* Audio Journal
 * Running
-* Relationship to computers
-* [[Personal/Digital Garden/Content/Homelab\|Homelab]]
-* PC gaming
+* Technology
+	* GPT and usage
+	* Obsidian processes
+	* Unique names and the lack of anonymity on the internet
+	* [[Personal/Digital Garden/Content/Homelab\|Homelab]]
+	* PC gaming
+		* [[Personal/Digital Garden/Content/Minecraft\|Minecraft]]
 * DIY
 	* [[copilot-conversations/Painting the Exterior of the house\|Painting the Exterior of the house]]
-* [[Value of Creation\|Value of Creation]]
-* [[Personal/Digital Garden/Content/Fighting Laziness\|Fighting Laziness]]
-* Books I have consumed and enjoyed
-* Attention 
-* Unique names and the lack of anonymity on the internet
-* Data
-* [[Personal/Digital Garden/Content/Minecraft\|Minecraft]]
-* Nepotism in hiring... it's how the world works and it's right
-* Allegory of the cave and how it applies to work experience
-
-###### Saplings
-
-###### Trees
+* Work
+	* Nepotism in hiring... it's how the world works and it's right
+	* Data
+	* Allegory of the cave and how it applies to work experience
 
