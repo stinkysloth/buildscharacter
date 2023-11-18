@@ -8,7 +8,7 @@ Back in the mid-2000's, I started a blog, as was fashionable at the time, and ha
 
 Fast forward 20 years, I've grown into a father, husband, a working professional, and someone with quite a few more nuanced and formed ideas about the world. The internet has shifted away from being a personal playground of blog posts on Tumbler toward, for better or worse, a more curated and refined on-line experience. 
 
-The [[Personal/Digital Garden/Content/definition of a digital garden\|definition of a digital garden]] isn't something that I made up or have even been plugged into for very long, but when I first discovered the approach to capturing knowledge, thoughts, wisdom, and random junk from your days, it resonated with me. I used Evernote as a brain dump for the better part of the last decade and have recently moved over into the wonderful world of [[Obsidian\|Obsidian]], which if you haven't checked it out or given it a try, it's a fantastic way to spend a rabbit-hole of a Saturday. 
+The [[Personal/Digital Garden/Content/Obsidian/definition of a digital garden\|definition of a digital garden]] isn't something that I made up or have even been plugged into for very long, but when I first discovered the approach to capturing knowledge, thoughts, wisdom, and random junk from your days, it resonated with me. I used Evernote as a brain dump for the better part of the last decade and have recently moved over into the wonderful world of [[Personal/Digital Garden/Home/Obsidian\|Obsidian]], which if you haven't checked it out or given it a try, it's a fantastic way to spend a rabbit-hole of a Saturday. 
 
 So with that, I present, the Digital Garden of [[Personal/Digital Garden/Content/Buildscharacter\|Buildscharacter]]. 
 
@@ -24,7 +24,7 @@ So with that, I present, the Digital Garden of [[Personal/Digital Garden/Content
 	* [[Personal/Digital Garden/Content/Value of Creation\|Value of Creation]]
 	* [[Personal/Digital Garden/Content/Fighting Laziness\|Fighting Laziness]]
 	* Attention 
-	* [[Personal/Digital Garden/Content/Job Hunting with Obsidian\|Job Hunting with Obsidian]]
+	* [[Personal/Digital Garden/Content/Obsidian/Job Hunting with Obsidian\|Job Hunting with Obsidian]]
 * Family
 	* Yelling and anger management
 	* Audio Journal
