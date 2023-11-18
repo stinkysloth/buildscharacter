@@ -24,6 +24,7 @@ So with that, I present, the Digital Garden of [[Personal/Digital Garden/Content
 	* [[Value of Creation\|Value of Creation]]
 	* [[Personal/Digital Garden/Content/Fighting Laziness\|Fighting Laziness]]
 	* Attention 
+	* [[Personal/Job Hunt/Companies/Job Hunting with Obsidian\|Job Hunting with Obsidian]]
 * Family
 	* Yelling and anger management
 	* Audio Journal
