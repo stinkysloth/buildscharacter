@@ -20,8 +20,8 @@ So with that, I present, the Digital Garden of [[Personal/Digital Garden/Content
 * Life
 	* Relationship to computers
 	* Fatherhood
-	* Living a intentional life
-	* [[Value of Creation\|Value of Creation]]
+	* [[Living a intentional life\|Living a intentional life]]
+	* [[Personal/Digital Garden/Content/Value of Creation\|Value of Creation]]
 	* [[Personal/Digital Garden/Content/Fighting Laziness\|Fighting Laziness]]
 	* Attention 
 	* [[Personal/Digital Garden/Content/Job Hunting with Obsidian\|Job Hunting with Obsidian]]
