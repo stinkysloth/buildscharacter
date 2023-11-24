@@ -16,7 +16,11 @@ I have personally found a lot of [[Personal/Digital Garden/Content/Value of Crea
 
 Useful Links: 
 [[Personal/Digital Garden/Content/Truenas Scale - Automated App Updates\|Truenas Scale - Automated App Updates]]
-
+[[Personal/Homelab/TrueNas Scale Pool Migration\|TrueNas Scale Pool Migration]]
+[[Personal/Homelab/Plex Meta Manager Install Guide\|Plex Meta Manager Install Guide]]
+[[Personal/Homelab/Text to Speech\|Text to Speech]]
+[[Personal/Homelab/Backblaze Backup Network Drive\|Backblaze Backup Network Drive]] - (Never got this working correctly)
+[[Personal/Homelab/Paperless Management\|Paperless Management]]
 
 - [ ] #homelab Create diagram of current-state homelab
 - [ ] #homelab Figure out replacement B2 Cloud Backup approach
