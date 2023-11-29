@@ -8,7 +8,7 @@
 *Step 3*. Scrub primary pool. 
 *Step 4*. Shut off all apps that are running. 
 *Step 5*. Create a backup of server configuration. 
-Step 6. Create a snapshot of the primary pool. Ensure 'recursive' is selected. 
+*Step 6*. Create a snapshot of the primary pool. Ensure 'recursive' is selected. 
 *Step 7*. Execute a replication task from primary pool to temp pool. 
 *Step 8*. Detach both pools from TrueNas. DO NOT CHOOSE TO DESTROY THE POOLS. 
 *Step 9*. Via SSH, import and rename both pools. This will pull the pools back in with swapped names. 
