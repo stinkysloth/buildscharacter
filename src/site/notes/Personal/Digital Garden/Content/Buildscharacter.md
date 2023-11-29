@@ -13,4 +13,4 @@ I don't know how it came into my vernacular in the past, but for many years, it 
 Over the course of the years, I've not really put it to very good use, as it's generally able to be tracked back to my name and I tend to be pretty private on the internet. 
 
 For many years, the only inhabitant of the page was this very questionable interaction between a cat and a sloth. Not really sure what my younger self was thinking. 
-![gentlesloth.gif](/img/user/Attachments/image/gentlesloth.gif)
+![gentlesloth.gif](/img/user/Attachments/Images/gentlesloth.gif)
