@@ -8,6 +8,8 @@ This digital garden that you are reading uses Obsidian as the backbone to create
 
 #### Obsidian Related Content
 [[Personal/Digital Garden/Content/Obsidian/definition of a digital garden\|definition of a digital garden]]
+[[Personal/Digital Garden/Content/Obsidian/Personal Timeline CSS Updates\|Personal Timeline CSS Updates]]
+[[Personal/Digital Garden/Content/Obsidian/Personal Timeline\|Personal Timeline]]
 [[Personal/Digital Garden/Content/Obsidian/Job Hunting with Obsidian\|Job Hunting with Obsidian]]
 [[Personal/Digital Garden/Content/Obsidian/Evernote vs. Obsidian\|Evernote vs. Obsidian]]
 [[Personal/Digital Garden/Content/Obsidian/Reddit Post 'How I manage tasks'\|Reddit Post 'How I manage tasks']]
