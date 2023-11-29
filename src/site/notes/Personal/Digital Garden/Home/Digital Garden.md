@@ -31,7 +31,7 @@ So with that, I present, the Digital Garden of [[Personal/Digital Garden/Content
 * Running
 * Technology
 	* GPT and usage
-	* Obsidian processes
+	* [[Personal/Digital Garden/Home/Obsidian\|Obsidian]] processes
 	* Unique names and the lack of anonymity on the internet
 	* [[Personal/Digital Garden/Content/Homelab\|Homelab]]
 	* PC gaming
