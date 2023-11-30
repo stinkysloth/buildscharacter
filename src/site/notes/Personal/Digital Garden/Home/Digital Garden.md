@@ -18,21 +18,21 @@ So with that, I present, the Digital Garden of [[Personal/Digital Garden/Content
 	* Books I have consumed and enjoyed
 	* Knitting
 * Life
-	* Relationship to computers
-	* Fatherhood
-	* [[Living a intentional life\|Living a intentional life]]
-	* [[Personal/Digital Garden/Content/Value of Creation\|Value of Creation]]
-	* [[Personal/Digital Garden/Content/Fighting Laziness\|Fighting Laziness]]
-	* Attention 
 	* [[Personal/Digital Garden/Content/Obsidian/Job Hunting with Obsidian\|Job Hunting with Obsidian]]
+	* Musings
+		* Attention 	
+		* Relationship to computers
+		* Fatherhood
+		* [[Living a intentional life\|Living a intentional life]]
+		* [[Personal/Digital Garden/Content/Value of Creation\|Value of Creation]]
+		* [[Personal/Digital Garden/Content/Fighting Laziness\|Fighting Laziness]]
 * Family
 	* Yelling and anger management
 	* Audio Journal
 * Running
 * Technology
 	* GPT and usage
-	* [[Personal/Digital Garden/Home/Obsidian\|Obsidian]] processes
-	* Unique names and the lack of anonymity on the internet
+	* [[Personal/Digital Garden/Home/Obsidian\|Obsidian]]
 	* [[Personal/Digital Garden/Content/Homelab\|Homelab]]
 	* PC gaming
 		* [[Personal/Digital Garden/Content/Minecraft\|Minecraft]]
