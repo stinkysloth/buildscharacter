@@ -16,4 +16,5 @@ This digital garden that you are reading uses Obsidian as the backbone to create
 [[Personal/Digital Garden/Content/Obsidian/Obsidian Sync\|Obsidian Sync]]
 [[Personal/Digital Garden/Content/Obsidian/Obsidian Call-Outs\|Obsidian Call-Outs]]
 [[Personal/Digital Garden/Content/Obsidian/Obsidian Markup Cheat-Sheet\|Obsidian Markup Cheat-Sheet]]
+[[Personal/Digital Garden/Content/Obsidian/Reddit Post 'How I manage tasks'\|Reddit Post 'How I manage tasks']]
 
