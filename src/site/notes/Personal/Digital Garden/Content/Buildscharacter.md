@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/digital-garden/content/buildscharacter/","created":"2023-11-11T07:48:16.556-05:00"}
+{"dg-publish":true,"permalink":"/personal/digital-garden/content/buildscharacter/"}
 ---
 
 
