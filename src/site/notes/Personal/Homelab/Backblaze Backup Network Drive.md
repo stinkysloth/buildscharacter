@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/homelab/backblaze-backup-network-drive/","created":"2023-11-18T19:13:38.402-05:00"}
+{"dg-publish":true,"permalink":"/personal/homelab/backblaze-backup-network-drive/"}
 ---
 
 
