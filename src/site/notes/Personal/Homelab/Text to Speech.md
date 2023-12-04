@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/homelab/text-to-speech/","created":"2023-11-20T13:58:59.925-05:00"}
+{"dg-publish":true,"permalink":"/personal/homelab/text-to-speech/"}
 ---
 
 
