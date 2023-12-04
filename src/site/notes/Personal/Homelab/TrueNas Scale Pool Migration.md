@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/homelab/true-nas-scale-pool-migration/","created":"2023-11-24T14:47:47.440-05:00"}
+{"dg-publish":true,"permalink":"/personal/homelab/true-nas-scale-pool-migration/"}
 ---
 
 
