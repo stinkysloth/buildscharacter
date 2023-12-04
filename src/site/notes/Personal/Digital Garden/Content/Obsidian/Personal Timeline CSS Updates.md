@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/digital-garden/content/obsidian/personal-timeline-css-updates/","created":"2023-11-25T22:19:42.182-05:00"}
+{"dg-publish":true,"permalink":"/personal/digital-garden/content/obsidian/personal-timeline-css-updates/"}
 ---
 
 
