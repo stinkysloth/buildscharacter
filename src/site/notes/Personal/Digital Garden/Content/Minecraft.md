@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/digital-garden/content/minecraft/","created":"2023-11-11T10:49:44.767-05:00"}
+{"dg-publish":true,"permalink":"/personal/digital-garden/content/minecraft/"}
 ---
 
 Over the years, Minecraft is one of those games that has come and gone from my gaming circle. Particularly, during the pandemic, I spent quite a bit of time building out a Minecraft server with my brother-in-law, father, and brother. This was by far, the most fun I've ever had in a multi-player game. 
