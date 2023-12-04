@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/digital-garden/content/obsidian/obsidian-call-outs/","created":"2023-11-01T12:48:36.319-04:00"}
+{"dg-publish":true,"permalink":"/personal/digital-garden/content/obsidian/obsidian-call-outs/"}
 ---
 
 
