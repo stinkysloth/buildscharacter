@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/digital-garden/content/homelab/","created":"2023-11-14T08:05:30.894-05:00"}
+{"dg-publish":true,"permalink":"/personal/digital-garden/content/homelab/"}
 ---
 
 On February 16th, 2012 I opened my Plex account and started to host my own media. Over the course of the next 8 year, multiple copywrite infringement notices later, my interest in operating my own server within my home continued to grow. 
