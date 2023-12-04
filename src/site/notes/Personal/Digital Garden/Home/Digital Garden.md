@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/digital-garden/home/digital-garden/","tags":["gardenEntry"],"created":"2023-11-03T16:53:23.706-04:00"}
+{"dg-publish":true,"permalink":"/personal/digital-garden/home/digital-garden/","tags":["gardenEntry"]}
 ---
 
 Kicking off my 'Digital Garden' experiment. 
