@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/homelab/plex-meta-manager-install-guide/","created":"2023-10-14T16:17:44.664-04:00"}
+{"dg-publish":true,"permalink":"/personal/homelab/plex-meta-manager-install-guide/"}
 ---
 
 
