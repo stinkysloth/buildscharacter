@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/digital-garden/content/obsidian/reddit-post-how-i-manage-tasks/","created":"2023-09-22T22:19:06.065-04:00"}
+{"dg-publish":true,"permalink":"/personal/digital-garden/content/obsidian/reddit-post-how-i-manage-tasks/"}
 ---
 
 
