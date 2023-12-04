@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/digital-garden/content/obsidian/personal-timeline/","created":"2023-11-24T17:20:10.095-05:00"}
+{"dg-publish":true,"permalink":"/personal/digital-garden/content/obsidian/personal-timeline/"}
 ---
 
 For a long time, I've had the idea of making a personal timeline. I've been looking into using Obsidian for this, as Obsidian falls neatly into the programmatic creation of a timeline, but allows for personal privacy that a personal timeline needs. 
