@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/digital-garden/home/obsidian/","created":"2023-11-18T18:14:42.267-05:00"}
+{"dg-publish":true,"permalink":"/personal/digital-garden/home/obsidian/"}
 ---
 
 Obsidian is a markdown editor that's used as a note-taking platform. It's extensible via community developed plugins. 
