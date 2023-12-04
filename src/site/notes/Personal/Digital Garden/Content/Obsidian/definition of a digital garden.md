@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/digital-garden/content/obsidian/definition-of-a-digital-garden/","created":"2023-11-11T07:54:27.915-05:00"}
+{"dg-publish":true,"permalink":"/personal/digital-garden/content/obsidian/definition-of-a-digital-garden/"}
 ---
 
 
