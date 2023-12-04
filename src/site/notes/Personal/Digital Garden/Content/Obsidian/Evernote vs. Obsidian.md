@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/digital-garden/content/obsidian/evernote-vs-obsidian/","created":"2023-04-08T07:06:32.760-04:00"}
+{"dg-publish":true,"permalink":"/personal/digital-garden/content/obsidian/evernote-vs-obsidian/"}
 ---
 
 
