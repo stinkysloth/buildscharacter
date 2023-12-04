@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/digital-garden/content/obsidian/obsidian-sync/","created":"2023-04-09T09:27:59.710-04:00"}
+{"dg-publish":true,"permalink":"/personal/digital-garden/content/obsidian/obsidian-sync/"}
 ---
 
 
