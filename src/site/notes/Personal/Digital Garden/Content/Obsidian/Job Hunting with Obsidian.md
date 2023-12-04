@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/digital-garden/content/obsidian/job-hunting-with-obsidian/","created":"2023-11-01T18:43:14.809-04:00"}
+{"dg-publish":true,"permalink":"/personal/digital-garden/content/obsidian/job-hunting-with-obsidian/"}
 ---
 
 I had the misfortune, like many others recently, of being laid off from work, so I have embarked upon everyone's favorite time waster, hunting for a new job. I wanted to set up a format that would allow my to track and manage my job search using Obsidian as my hub. This serves a few purposes for me.
