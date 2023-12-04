@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/digital-garden/content/fighting-laziness/","created":"2023-11-11T15:41:52.528-05:00"}
+{"dg-publish":true,"permalink":"/personal/digital-garden/content/fighting-laziness/"}
 ---
 
 
